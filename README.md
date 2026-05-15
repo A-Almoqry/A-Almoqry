@@ -32,9 +32,11 @@
 
 ### 📊 إحصائيات GitHub (GitHub Stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-Almoqry&show_icons=true&theme=tokyonight&locale=en" alt="Ahmed's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Almoqry&layout=compact&theme=tokyonight&locale=en" alt="Ahmed's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=A-Almoqry&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmed's GitHub Stats" />
+  
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Almoqry&layout=compact&theme=tokyonight&hide_border=false" alt="Ahmed's Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Almoqry&theme=tokyonight" alt="Ahmed's Streak" />

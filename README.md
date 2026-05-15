@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Cairo&size=24&duration=3500&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=%D8%A3%D9%86%D8%A7+%D8%A3%D8%AD%D9%85%D8%AF+%D9%85%D9%82%D8%A8%D9%84+%D9%85%D9%84%D9%83+%D8%A7%D9%84%D9%83%D9%88%D8%AF%D8%9B;Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Laravel+%26+Flutter+Expert+%F0%9F%93%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Cairo&size=24&duration=3500&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=%D8%A3%D9%87%D9%84%D8%A7%D9%8B+%D9%88%D8%B3%D9%87%D9%84%D8%A7%D9%8B+%D8%A3%D9%86%D8%A7+%D8%A3%D8%AD%D9%85%D8%AF+%D8%A7%D9%84%D9%85%D9%82%D8%B1%D9%8A;Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Laravel+%26+Flutter+Expert+%F0%9F%93%B1" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
@@ -28,7 +28,7 @@
 | :--- | :--- |
 | **Backend** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 | **Mobile** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) |
-| **Frontend** | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
+| **Frontend** | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&theme=tokyonight&logo=bootstrap&logoColor=white) |
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) |
 | **Design** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white) |
 

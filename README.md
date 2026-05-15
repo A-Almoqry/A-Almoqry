@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Cairo&size=24&duration=3500&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=%D8%A3%D9%86%D8%A7+%D8%A3%D8%AD%D9%85%D8%AF+%D9%85%D9%82%D8%A8%D9%84+%D9%85%D9%84%D9%83+%D8%A7%D9%84%D9%83%D9%88%D8%AF%D8%9B;Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;PMP+Certified+Professional+%F0%9F%92%BC;Laravel+%26+Flutter+Expert+%F0%9F%93%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Cairo&size=24&duration=3500&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=%D8%A3%D9%86%D8%A7+%D8%A3%D8%AD%D9%85%D8%AF+%D9%85%D9%82%D8%A8%D9%84+%D9%85%D9%84%D9%83+%D8%A7%D9%84%D9%83%D9%88%D8%AF%D8%9B;Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Laravel+%26+Flutter+Expert+%F0%9F%93%B1" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
